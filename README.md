@@ -152,11 +152,3 @@ El sistema cumple todos los requisitos del enunciado:
 * Lógica en C++, interfaz en UMG.
 
 El resultado es un sistema modular, ampliable y completamente integrable en cualquier proyecto Unreal Engine 5.
-
----
-
-**Alumno:** [Roberto Plaza Viso]
-**Asignatura:** Interfaces de Usuario
-**Motor:** Unreal Engine 5
-**Lenguaje:** C++ / UMG
-**Fecha:** [07/10/2025]
